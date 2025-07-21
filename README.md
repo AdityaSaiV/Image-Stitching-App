@@ -1,4 +1,4 @@
-# **Image Stitching APP (Under Development !!!)**
+# **Image Stitching APP (Sorry for disappointment - App Development Abondoned !!!)**
 
 (Sorry Guys Now the App is not working  as the code is not running at the server !)
 
